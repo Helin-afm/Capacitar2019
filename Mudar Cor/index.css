@@ -1,0 +1,16 @@
+.oi{
+    background-color: aquamarine;
+    justify-content: center;
+}
+
+
+#box{
+    width:500px;
+    height:500px;
+    border:solid 5px;
+    border-radius:20px;
+    border-color: slategray;
+    display: flex;
+    justify-content: center;
+}
+
